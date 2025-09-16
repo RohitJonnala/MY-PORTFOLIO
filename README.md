@@ -10,5 +10,56 @@ Welcome to my **personal portfolio website** – a modern, sleek, and responsive
   <img src="https://yourdomain.com/preview.gif" alt="Portfolio Preview" width="100%" />
 </div>
 
+---
+
+## ✨ Features
+
+- 🔥 Fully responsive design
+- 🌙 Light/Dark mode toggle
+- 💼 Projects showcase with GitHub integration
+- 📬 Contact form with email integration
+- 🧠 Clean, modular code with reusable components
+
+---
+
+## 🚀 Tech Stack
+
+| Category      | Tools Used                                                  |
+|---------------|-------------------------------------------------------------|
+| Frontend      | `HTML5`, `CSS3`, `JavaScript`, `React.js`                   |
+| Styling       | `Tailwind CSS` / `Sass` / `Styled-Components` *(choose one)*|
+| Animations    | `Framer Motion` / `GSAP` *(optional)*                       |
+| Deployment    | `Vercel` / `Netlify` / `GitHub Pages` *(choose one)*        |
+| Icons         | `Font Awesome`, `Heroicons`                                 |
+| Version Control | `Git`, `GitHub`                                           |
+
+---
+
+## 📸 Screenshots
+
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](https://yourdomain.com/desktop-preview.png) | ![Mobile](https://yourdomain.com/mobile-preview.png) |
+
+---
+
+## 🛠️ Installation & Setup
+
+To run this project locally:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/portfolio.git
+
+# 2. Navigate to the project folder
+cd portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+
 
 
